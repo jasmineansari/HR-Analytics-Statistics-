@@ -2,9 +2,6 @@
 Executed a rigorous data refinement process, culminating in a comprehensive statistical analysis. Applied advanced statistical methodologies, including hypothesis testing, one-sample z-test, one-sample t-test, two-sample t-test, and  F-test, to glean nuanced insights amidst a dearth of correlation
 
 ### Dataset Description
-## Detailed Overview of the HR Analytics Statistics Jupyter Notebook
-
-### Dataset Description
 The provided Jupyter notebook analyzes a dataset containing information about 14,999 employees. The dataset includes the following columns:
 
 1. **satisfactoryLevel**: The satisfaction level of the employee, ranging from 0 to 1.
